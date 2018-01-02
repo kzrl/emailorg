@@ -1,0 +1,6 @@
+{
+    "mailDir": "/home/youruser/.mail/gmail/orgmode/",
+    "orgDir": "/home/youruser/org/",
+    "orgFile": "incoming.org",
+    "signatureFile": "signature.txt"
+}
